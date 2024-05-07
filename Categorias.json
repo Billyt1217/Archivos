@@ -1,0 +1,37 @@
+[
+   {
+      "nombre":"Pescados y mariscos",
+      "detalle":"Toda la comida marina",
+      "imagen":"https://c8.alamy.com/compes/pcyxcf/alegre-cocinar-con-pescado-mariscos-comida-logotipo-o-etiqueta-ilustracion-vectorial-de-dibujos-animados-pcyxcf.jpg"
+   },
+   {
+      "nombre":"Comida China",
+      "detalle":"Cocina oriental",
+      "imagen":"https://t2.uc.ltmcdn.com/es/posts/9/5/9/como_hacer_dumplings_chinos_46959_600_square.jpg"
+   },
+   {
+      "nombre":"Comida Tipica",
+      "detalle":"Comida Cajamarquina",
+      "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD6xeeRG4kDZQrY_9PVE2EmsXLRtz6pZJlAV1nxUp42Q&s"
+   },
+   {
+      "nombre":"Comida Criolla",
+      "detalle":"Comida peruana",
+      "imagen":"https://elpopular.cronosmedia.glr.pe/original/2020/10/29/5f9a8926e0031031ee251842.jpg"
+   },
+   {
+      "nombre":"Pizzas y comida Italiana",
+      "detalle":"Comida italiana",
+      "imagen":"https://peruretail.sfo3.cdn.digitaloceanspaces.com/wp-content/uploads/pizza-3.jpg"
+   },
+   {
+      "nombre":"Amburguesas",
+      "detalle":"Comida rapida",
+      "imagen":"https://www.hogar.mapfre.es/media/2018/09/hamburguesa-sencilla.jpg"
+   },
+   {
+      "nombre":"Sopas",
+      "detalle":"Caldos y sopas",
+      "imagen":"https://elcomercio.pe/resizer/VYnQi__ZP6xOt9ScRTqQ3zqWT48=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MXHH3GHJUNG73F5BQPIK5W22XI.jpg"
+   }
+]
