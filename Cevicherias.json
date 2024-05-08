@@ -1,0 +1,32 @@
+[
+   {
+      "nombre":"Marisquería Puerto Escondido",
+      "direccion":"Chanchamayo 456, Cajamarca 06001, Perú",
+      "calificacion":3.8,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8XAsJCFzxcwtcaHZz_Hri9moLaOXl40aKA&s"
+   },
+   {
+      "nombre":"Poseidón Pescados y Mariscos",
+      "direccion":"Vía de Evitamiento Nte. 2162, Cajamarca 06002, Perú",
+      "calificacion":3.4,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGPY9H45xPKRHDb1iqQ8yHdOGeFbChrSsmqA&s"
+   },
+   {
+      "nombre":"Poseidón",
+      "direccion":"Av Vía de Evitamiento 2224, Cajamarca 06002, Perú",
+      "calificacion":4.0,
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl2JjoIOWeZZMmm4SbOgeGz9LpFNvQM1DxdClA9IYvzQ&s"
+   },
+   {
+      "nombre":"Marisquería La Curva",
+      "direccion":"AV.Independencia, Cajamarca 06003, Perú",
+      "calificacion":3.9,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgd6k-QBM0tOja6eDiTpeQIO4JT5vcvMFxG5VsN0V9cw&s"
+   },
+   {
+      "nombre":"Alga Marina Cebichería",
+      "direccion":"AV.Mártires de Uchuraccay 205, Cajamarca 06003, Perú",
+      "calificacion":3.9,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdLyet9pEmsjVwz73Dg8Fab3vhAaaUq4avRUA6c8w9w&s"
+   }
+]
