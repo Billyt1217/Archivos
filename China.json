@@ -1,0 +1,26 @@
+[
+   {
+      "nombre":"Chifa Central",
+      "direccion":"Jr. del Batán 149, Cajamarca 06001, Perú",
+      "calificacion":3.9,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFj_7mEMpaqXCxOS5dKLSatB4ebXKoWmELpBRGgWyPwg&s"
+   },
+   {
+      "nombre":"Restaurant Hot",
+      "direccion":"Belén 732, Cajamarca 06002, Perú",
+      "calificacion":4.1,
+      "imagen_url":"https://lh3.googleusercontent.com/p/AF1QipOC0cHFRuFlfu03vk37uUaEmJdSvm31jLcxJ0wC=s1360-w1360-h1020"
+   },
+   {
+      "nombre":"WOK EXPRESS",
+      "direccion":"2do piso, Cc. El Quinde, Av. Hoyos Rubio 06001, Cajamarca 06001, Perú",
+      "calificacion":4.6,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBL-eDXIs51CzqqdmbK-NwTMCYdlXaC9Vmg&s"
+   },
+   {
+      "nombre":"Chifa Xin Hua",
+      "direccion":"531, Amalia Puga, Cajamarca 06001, Perú",
+      "calificacion":3.8,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJZt2OwdDre8gFZH15iqsIEYLSk4OM1MWlQ&s"
+   }
+]

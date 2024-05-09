@@ -1,0 +1,20 @@
+[
+   {
+      "nombre":"KEBAB Cajamarca",
+      "direccion":"Ucayali 370, Cajamarca, Región Cajamarca, 06001",
+      "calificacion":4.71,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtPqfI2zvz3LzjrlS9d8VgLyHtfNOxM8mNCDgE_QpZNQ&s"
+   },
+   {
+      "nombre":"El Warique de Chelo",
+      "direccion":"Jr. Colonial 198 - Barrio San Martin, Cajamarca, Región Cajamarca, 06003",
+      "calificacion":4.52,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiScG2pilFyfBechNlGm4mJrsGGOmGR2olMIbo-wC69Q&s"
+   },
+   {
+      "nombre":"El Barrio Resto Bar Criollo",
+      "direccion":"Jr. Ayacucho 753, Cajamarca 06002, Perú",
+      "calificacion":"Sin calificación disponible",
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2BT8BgAeUuQAW0S8g0Vm-zmHGtqEawH4qrVewIQixHg&s"
+   }
+]

@@ -1,0 +1,20 @@
+[
+   {
+      "nombre":"El Cowboy Burger",
+      "direccion":"Amalia Puga 212, Cajamarca 06001, Perú",
+      "calificacion":3.6,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpSpMrNr6UcBT_4Y-lSr9b-MGyPLmgz8SJ6-J-P7XWQ&s"
+   },
+   {
+      "nombre":"HES Cajamarca",
+      "direccion":"Pasaje San Martín 291, segundo piso (a 1 cdra de Plaza de Armas C.C.El Quinde,ex París,plaza comercial,Cajamarca 06000,Perú)",
+      "calificacion":4.4,
+      "imagen_url":"https://www.regioncajamarca.gob.pe/media/delivery/empresas/20602417191/logo_1._LOGO_HES_PNG.png"
+   },
+   {
+      "nombre":"La Abuela Hamburguesa",
+      "direccion":"956958540 903401033 51,Cajamarca 06001,Perú",
+      "calificacion":"No disponible en Google Maps",
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdalMR_evc0f9Lqc-Nihzz-Ln3Uk3IFNsHBqtNxIi5A&s"
+   }
+]

@@ -1,0 +1,20 @@
+[
+   {
+      "nombre":"Restaurante Caldos \"El Paisita\"",
+      "direccion":"Ucayali 329, Cajamarca 06001, Perú",
+      "calificacion":"4.6",
+      "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApERRqZ0i_PenYqYW2D2rpsGakgo7WceWPT9_wPalFg&s"
+   },
+   {
+      "nombre":"CALDOS - LA ALAMEDA",
+      "direccion":"Eduardo Rodríguez 393, Cajamarca 06001, Perú",
+      "calificacion":4.2,
+      "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjmMAue_qdTWi4k7kdACvnJdqlteg627XpXBbWvun5uQ&s"
+   },
+   {
+      "nombre":"Soperos",
+      "direccion":"Belén 732, Cajamarca 06001, Perú",
+      "calificacion":2.7,
+      "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-JHFmDAhUmFTh0ljmeJk4tgWiv4fHxL0_v6QOzsAHQ&s"
+   }
+]

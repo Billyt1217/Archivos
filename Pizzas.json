@@ -1,0 +1,32 @@
+[
+   {
+      "nombre":"Pizza Hut",
+      "direccion":"Jr. Sor Manuela Gil 151 Pueblo Nuevo, Cajamarca 06001, Perú",
+      "calificacion":3.8,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7C1iPvABumdtzvVoQbHVakCDq-JtPDofwf4wDYfLyww&s"
+   },
+   {
+      "nombre":"Buena Pizza",
+      "direccion":"51, Cajamarca 06001, Perú",
+      "calificacion":"No disponible en Google Maps",
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEbdfSa9U2xq6i01lRJtw79mXNEtkh9XW92idxo6x7-w&s"
+   },
+   {
+      "nombre":"Renzo’s Pizzas",
+      "direccion":"Jr. Cruz de Piedra 579, Cajamarca, 06001",
+      "calificacion":4.11,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmypSasmYY86yLyXw4mGI1mM-VSckiOmp_Wtb2ry8WIA&s"
+   },
+   {
+      "nombre":"El Marengo Pizzeria",
+      "direccion":"Jr. Junín # 1201, Cajamarca",
+      "calificacion":4.02,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuut9vbCoa2w5gMqhQ3qq2Wv_gE0s7TqB2hHinPpHmvg&s"
+   },
+   {
+      "nombre":"Bambino PIZZA",
+      "direccion":"Jirón Silva Santisteban 141 Plazuela Belén, Cajamarca, 06002",
+      "calificacion":4.03,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStmZaVs6BcXhnibLoEA-XgKvOzDmAO-oYSdmvvGmtMuw&s"
+   }
+]

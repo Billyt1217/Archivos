@@ -1,0 +1,26 @@
+[
+   {
+      "nombre":"Restaurante Las Tullpas",
+      "direccion":"Dos de Mayo 390, Cajamarca 06002, Perú",
+      "calificacion":4.1,
+      "imagen_url":"https://fastly.4sqi.net/img/general/600x600/88347325_ZNUcXaRw14kwKKrP-mhW5jKQfvV85cPzGr84hneeoJc.jpg"
+   },
+   {
+      "nombre":"Restaurante El Zarco",
+      "direccion":"Jirón, Jr. del Batán 170, Cajamarca 06002, Perú",
+      "calificacion":3.7,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1FZVOB1zPIZb4d5OeN0ljlgyBJzxqDAxkf_no9A9Jw&s"
+   },
+   {
+      "nombre":"Restaurante Salas",
+      "direccion":"Cajamarca 06002, Perú",
+      "calificacion":3.9,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5MOSdpHkn5s7b_Fv3H7KFrHIXePr4hfSAuMgjICmRVQ&s"
+   },
+   {
+      "nombre":"El Querubino Restaurante - Café",
+      "direccion":"Amalia Puga 589, Cajamarca 06001, Perú",
+      "calificacion":4.3,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFmYXM59hThbaXlBe8sevubfrKGCrWuBEDo5EReDZtA&s"
+   }
+]
