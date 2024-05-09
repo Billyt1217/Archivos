@@ -1,0 +1,170 @@
+[
+   {
+      "categoria":"Pescados y mariscos",
+      "restaurantes":[
+         {
+            "nombre":"Marisquería Puerto Escondido",
+            "direccion":"Chanchamayo 456, Cajamarca 06001, Perú",
+            "calificacion":3.8,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8XAsJCFzxcwtcaHZz_Hri9moLaOXl40aKA&s"
+         },
+         {
+            "nombre":"Poseidón Pescados y Mariscos",
+            "direccion":"Vía de Evitamiento Nte. 2162, Cajamarca 06002, Perú",
+            "calificacion":3.4,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGPY9H45xPKRHDb1iqQ8yHdOGeFbChrSsmqA&s"
+         },
+         {
+            "nombre":"Poseidón",
+            "direccion":"Av Vía de Evitamiento 2224, Cajamarca 06002, Perú",
+            "calificacion":4.0,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl2JjoIOWeZZMmm4SbOgeGz9LpFNvQM1DxdClA9IYvzQ&s"
+         },
+         {
+            "nombre":"Marisquería La Curva",
+            "direccion":"AV.Independencia, Cajamarca 06003, Perú",
+            "calificacion":3.9,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgd6k-QBM0tOja6eDiTpeQIO4JT5vcvMFxG5VsN0V9cw&s"
+         },
+         {
+            "nombre":"Alga Marina Cebichería",
+            "direccion":"AV.Mártires de Uchuraccay 205, Cajamarca 06003, Perú",
+            "calificacion":3.9,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdLyet9pEmsjVwz73Dg8Fab3vhAaaUq4avRUA6c8w9w&s"
+         }
+      ]
+   },
+   {
+      "categoria":"Amburguesas",
+      "restaurantes":[
+         {
+            "nombre":"El Cowboy Burger",
+            "direccion":"Amalia Puga 212, Cajamarca 06001, Perú",
+            "calificacion":3.6,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpSpMrNr6UcBT_4Y-lSr9b-MGyPLmgz8SJ6-J-P7XWQ&s"
+         },
+         {
+            "nombre":"La Abuela Hamburguesa",
+            "direccion":"956958540 903401033 51,Cajamarca 06001,Perú",
+            "calificacion":"No disponible en Google Maps",
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdalMR_evc0f9Lqc-Nihzz-Ln3Uk3IFNsHBqtNxIi5A&s"
+         }
+      ]
+   },
+   {
+      "categoria":"Sopas",
+      "restaurantes":[
+         {
+            "nombre":"Restaurante Caldos \"El Paisita\"",
+            "direccion":"Ucayali 329, Cajamarca 06001, Perú",
+            "calificacion":"4.6",
+            "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApERRqZ0i_PenYqYW2D2rpsGakgo7WceWPT9_wPalFg&s"
+         },
+         {
+            "nombre":"CALDOS - LA ALAMEDA",
+            "direccion":"Eduardo Rodríguez 393, Cajamarca 06001, Perú",
+            "calificacion":4.2,
+            "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjmMAue_qdTWi4k7kdACvnJdqlteg627XpXBbWvun5uQ&s"
+         },
+         {
+            "nombre":"Soperos",
+            "direccion":"Belén 732, Cajamarca 06001, Perú",
+            "calificacion":2.7,
+            "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-JHFmDAhUmFTh0ljmeJk4tgWiv4fHxL0_v6QOzsAHQ&s"
+         }
+      ]
+   },
+   {
+      "categoria":"Comida China",
+      "restaurantes":[
+         {
+            "nombre":"Chifa Central",
+            "direccion":"Jr. del Batán 149, Cajamarca 06001, Perú",
+            "calificacion":3.9,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFj_7mEMpaqXCxOS5dKLSatB4ebXKoWmELpBRGgWyPwg&s"
+         },
+         {
+            "nombre":"Restaurant Hot",
+            "direccion":"Belén 732, Cajamarca 06002, Perú",
+            "calificacion":4.1,
+            "imagen_url":"https://lh3.googleusercontent.com/p/AF1QipOC0cHFRuFlfu03vk37uUaEmJdSvm31jLcxJ0wC=s1360-w1360-h1020"
+         },
+         {
+            "nombre":"WOK EXPRESS",
+            "direccion":"2do piso, Cc. El Quinde, Av. Hoyos Rubio 06001, Cajamarca 06001, Perú",
+            "calificacion":4.6,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBL-eDXIs51CzqqdmbK-NwTMCYdlXaC9Vmg&s"
+         },
+         {
+            "nombre":"Chifa Xin Hua",
+            "direccion":"531, Amalia Puga, Cajamarca 06001, Perú",
+            "calificacion":3.8,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJZt2OwdDre8gFZH15iqsIEYLSk4OM1MWlQ&s"
+         }
+      ]
+   },
+   {
+      "categoria":"Pizzas y comida Italiana",
+      "restaurantes":[
+         {
+            "nombre":"Pizza Hut",
+            "direccion":"Jr. Sor Manuela Gil 151 Pueblo Nuevo, Cajamarca 06001, Perú",
+            "calificacion":3.8,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7C1iPvABumdtzvVoQbHVakCDq-JtPDofwf4wDYfLyww&s"
+         },
+         {
+            "nombre":"Buena Pizza",
+            "direccion":"51, Cajamarca 06001, Perú",
+            "calificacion":"No disponible en Google Maps",
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEbdfSa9U2xq6i01lRJtw79mXNEtkh9XW92idxo6x7-w&s"
+         },
+         {
+            "nombre":"Renzo’s Pizzas",
+            "direccion":"Jr. Cruz de Piedra 579, Cajamarca, 06001",
+            "calificacion":4.11,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmypSasmYY86yLyXw4mGI1mM-VSckiOmp_Wtb2ry8WIA&s"
+         },
+         {
+            "nombre":"El Marengo Pizzeria",
+            "direccion":"Jr. Junín # 1201, Cajamarca",
+            "calificacion":4.02,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuut9vbCoa2w5gMqhQ3qq2Wv_gE0s7TqB2hHinPpHmvg&s"
+         },
+         {
+            "nombre":"Bambino PIZZA",
+            "direccion":"Jirón Silva Santisteban 141 Plazuela Belén, Cajamarca, 06002",
+            "calificacion":4.03,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStmZaVs6BcXhnibLoEA-XgKvOzDmAO-oYSdmvvGmtMuw&s"
+         }
+      ]
+   },
+   {
+      "categoria":"Comida Criolla",
+      "restaurantes":[
+         {
+            "nombre":"Restaurante Las Tullpas",
+            "direccion":"Dos de Mayo 390, Cajamarca 06002, Perú",
+            "calificacion":4.1,
+            "imagen_url":"https://fastly.4sqi.net/img/general/600x600/88347325_ZNUcXaRw14kwKKrP-mhW5jKQfvV85cPzGr84hneeoJc.jpg"
+         },
+         {
+            "nombre":"Restaurante El Zarco",
+            "direccion":"Jirón, Jr. del Batán 170, Cajamarca 06002, Perú",
+            "calificacion":3.7,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1FZVOB1zPIZb4d5OeN0ljlgyBJzxqDAxkf_no9A9Jw&s"
+         },
+         {
+            "nombre":"Restaurante Salas",
+            "direccion":"Cajamarca 06002, Perú",
+            "calificacion":3.9,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5MOSdpHkn5s7b_Fv3H7KFrHIXePr4hfSAuMgjICmRVQ&s"
+         },
+         {
+            "nombre":"El Querubino Restaurante - Café",
+            "direccion":"Amalia Puga 589, Cajamarca 06001, Perú",
+            "calificacion":4.3,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFmYXM59hThbaXlBe8sevubfrKGCrWuBEDo5EReDZtA&s"
+         }
+      ]
+   }
+]
