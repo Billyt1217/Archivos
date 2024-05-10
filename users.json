@@ -1,1 +1,19 @@
 
+    {
+      "username": "ejemplo_usuario1",
+      "first_name": "Juan",
+      "last_name": "Pérez",
+      "email": "juan@example.com",
+      "is_active": true,
+      "date_joined": "2024-05-10",
+      "password": "ejemplo123"
+    },
+    {
+      "username": "ejemplo_usuario2",
+      "first_name": "María",
+      "last_name": "González",
+      "email": "maria@example.com",
+      "is_active": false,
+      "date_joined": "2024-04-15",
+      "password": "segura456"
+    }
