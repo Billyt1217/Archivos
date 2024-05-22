@@ -1,22 +1,5 @@
 [
    {
-   "categoria": "Amburguesas",
-   "restaurantes": [
-      {
-         "nombre": "El Cowboy Burger",
-         "direccion": "Amalia Puga 212, Cajamarca 06001, Perú",
-         "calificacion": 3.6,
-         "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpSpMrNr6UcBT_4Y-lSr9b-MGyPLmgz8SJ6-J-P7XWQ&s"
-      },
-      {
-         "nombre": "La Abuela Hamburguesa",
-         "direccion": "956958540 903401033 51, Cajamarca 06001, Perú",
-         "calificacion": "No disponible en Google Maps",
-         "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdalMR_evc0f9Lqc-Nihzz-Ln3Uk3IFNsHBqtNxIi5A&s"
-      } 
-   ]
-},
-   {
       "categoria":"Pescados y mariscos",
       "restaurantes":[
          {
@@ -51,7 +34,23 @@
          }
       ]
    },
-  
+   {
+      "categoria":"Amburguesas",
+      "restaurantes":[
+         {
+            "nombre":"El Cowboy Burger",
+            "direccion":"Amalia Puga 212, Cajamarca 06001, Perú",
+            "calificacion":3.6,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpSpMrNr6UcBT_4Y-lSr9b-MGyPLmgz8SJ6-J-P7XWQ&s"
+         },
+         {
+            "nombre":"La Abuela Hamburguesa",
+            "direccion":"956958540 903401033 51,Cajamarca 06001,Perú",
+            "calificacion":"No disponible en Google Maps",
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdalMR_evc0f9Lqc-Nihzz-Ln3Uk3IFNsHBqtNxIi5A&s"
+         }
+      ]
+   },
    {
       "categoria":"Sopas",
       "restaurantes":[
@@ -59,19 +58,19 @@
             "nombre":"Restaurante Caldos \"El Paisita\"",
             "direccion":"Ucayali 329, Cajamarca 06001, Perú",
             "calificacion":"4.6",
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApERRqZ0i_PenYqYW2D2rpsGakgo7WceWPT9_wPalFg&s"
+            "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApERRqZ0i_PenYqYW2D2rpsGakgo7WceWPT9_wPalFg&s"
          },
          {
             "nombre":"CALDOS - LA ALAMEDA",
             "direccion":"Eduardo Rodríguez 393, Cajamarca 06001, Perú",
             "calificacion":4.2,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjmMAue_qdTWi4k7kdACvnJdqlteg627XpXBbWvun5uQ&s"
+            "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjmMAue_qdTWi4k7kdACvnJdqlteg627XpXBbWvun5uQ&s"
          },
          {
             "nombre":"Soperos",
             "direccion":"Belén 732, Cajamarca 06001, Perú",
             "calificacion":2.7,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-JHFmDAhUmFTh0ljmeJk4tgWiv4fHxL0_v6QOzsAHQ&s"
+            "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-JHFmDAhUmFTh0ljmeJk4tgWiv4fHxL0_v6QOzsAHQ&s"
          }
       ]
    },
@@ -142,54 +141,30 @@
    {
       "categoria":"Comida Criolla",
       "restaurantes":[
-          {
-      "nombre":"KEBAB Cajamarca",
-      "direccion":"Ucayali 370, Cajamarca, Región Cajamarca, 06001",
-      "calificacion":4.71,
-      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtPqfI2zvz3LzjrlS9d8VgLyHtfNOxM8mNCDgE_QpZNQ&s"
-   },
-   {
-      "nombre":"El Warique de Chelo",
-      "direccion":"Jr. Colonial 198 - Barrio San Martin, Cajamarca, Región Cajamarca, 06003",
-      "calificacion":4.52,
-      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiScG2pilFyfBechNlGm4mJrsGGOmGR2olMIbo-wC69Q&s"
-   },
-   {
-      "nombre":"El Barrio Resto Bar Criollo",
-      "direccion":"Jr. Ayacucho 753, Cajamarca 06002, Perú",
-      "calificacion":"Sin calificación disponible",
-      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2BT8BgAeUuQAW0S8g0Vm-zmHGtqEawH4qrVewIQixHg&s"
-   }
+         {
+            "nombre":"Restaurante Las Tullpas",
+            "direccion":"Dos de Mayo 390, Cajamarca 06002, Perú",
+            "calificacion":4.1,
+            "imagen_url":"https://fastly.4sqi.net/img/general/600x600/88347325_ZNUcXaRw14kwKKrP-mhW5jKQfvV85cPzGr84hneeoJc.jpg"
+         },
+         {
+            "nombre":"Restaurante El Zarco",
+            "direccion":"Jirón, Jr. del Batán 170, Cajamarca 06002, Perú",
+            "calificacion":3.7,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1FZVOB1zPIZb4d5OeN0ljlgyBJzxqDAxkf_no9A9Jw&s"
+         },
+         {
+            "nombre":"Restaurante Salas",
+            "direccion":"Cajamarca 06002, Perú",
+            "calificacion":3.9,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5MOSdpHkn5s7b_Fv3H7KFrHIXePr4hfSAuMgjICmRVQ&s"
+         },
+         {
+            "nombre":"El Querubino Restaurante - Café",
+            "direccion":"Amalia Puga 589, Cajamarca 06001, Perú",
+            "calificacion":4.3,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFmYXM59hThbaXlBe8sevubfrKGCrWuBEDo5EReDZtA&s"
+         }
       ]
-   },
-   {
-      "categoria":"Comida Tipica",
-      "restaurantes":[
-   {
-      "nombre":"Restaurante Las Tullpas",
-      "direccion":"Dos de Mayo 390, Cajamarca 06002, Perú",
-      "calificacion":4.1,
-      "imagen_url":"https://fastly.4sqi.net/img/general/600x600/88347325_ZNUcXaRw14kwKKrP-mhW5jKQfvV85cPzGr84hneeoJc.jpg"
-   },
-   {
-      "nombre":"Restaurante El Zarco",
-      "direccion":"Jirón, Jr. del Batán 170, Cajamarca 06002, Perú",
-      "calificacion":3.7,
-      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1FZVOB1zPIZb4d5OeN0ljlgyBJzxqDAxkf_no9A9Jw&s"
-   },
-   {
-      "nombre":"Restaurante Salas",
-      "direccion":"Cajamarca 06002, Perú",
-      "calificacion":3.9,
-      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5MOSdpHkn5s7b_Fv3H7KFrHIXePr4hfSAuMgjICmRVQ&s"
-   },
-   {
-      "nombre":"El Querubino Restaurante - Café",
-      "direccion":"Amalia Puga 589, Cajamarca 06001, Perú",
-      "calificacion":4.3,
-      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFmYXM59hThbaXlBe8sevubfrKGCrWuBEDo5EReDZtA&s"
    }
-]
-   }
-   
 ]
