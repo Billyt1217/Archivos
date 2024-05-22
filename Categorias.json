@@ -14,21 +14,7 @@
       "detalle":"Comida Cajamarquina",
       "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD6xeeRG4kDZQrY_9PVE2EmsXLRtz6pZJlAV1nxUp42Q&s"
    },
-   {
-      "nombre":"Comida Criolla",
-      "detalle":"Comida peruana",
-      "imagen":"https://elpopular.cronosmedia.glr.pe/original/2020/10/29/5f9a8926e0031031ee251842.jpg"
-   },
-   {
-      "nombre":"Pizzas y comida Italiana",
-      "detalle":"Comida italiana",
-      "imagen":"https://peruretail.sfo3.cdn.digitaloceanspaces.com/wp-content/uploads/pizza-3.jpg"
-   },
-   {
-      "nombre":"Amburguesas",
-      "detalle":"Comida rapida",
-      "imagen":"https://www.hogar.mapfre.es/media/2018/09/hamburguesa-sencilla.jpg"
-   },
+  
    {
       "nombre":"Sopas",
       "detalle":"Caldos y sopas",
