@@ -34,23 +34,7 @@
          }
       ]
    },
-   {
-      "categoria":"Amburguesas",
-      "restaurantes":[
-         {
-            "nombre":"El Cowboy Burger",
-            "direccion":"Amalia Puga 212, Cajamarca 06001, Perú",
-            "calificacion":3.6,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpSpMrNr6UcBT_4Y-lSr9b-MGyPLmgz8SJ6-J-P7XWQ&s"
-         },
-         {
-            "nombre":"La Abuela Hamburguesa",
-            "direccion":"956958540 903401033 51,Cajamarca 06001,Perú",
-            "calificacion":"No disponible en Google Maps",
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdalMR_evc0f9Lqc-Nihzz-Ln3Uk3IFNsHBqtNxIi5A&s"
-         }
-      ]
-   },
+   
    {
       "categoria":"Sopas",
       "restaurantes":[
@@ -135,6 +119,23 @@
             "direccion":"Jirón Silva Santisteban 141 Plazuela Belén, Cajamarca, 06002",
             "calificacion":4.03,
             "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStmZaVs6BcXhnibLoEA-XgKvOzDmAO-oYSdmvvGmtMuw&s"
+         }
+      ]
+   },
+   {
+      "categoria":"Amburguesas",
+      "restaurantes":[
+         {
+            "nombre":"El Cowboy Burger",
+            "direccion":"Amalia Puga 212, Cajamarca 06001, Perú",
+            "calificacion":3.6,
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpSpMrNr6UcBT_4Y-lSr9b-MGyPLmgz8SJ6-J-P7XWQ&s"
+         },
+         {
+            "nombre":"La Abuela Hamburguesa",
+            "direccion":"956958540 903401033 51,Cajamarca 06001,Perú",
+            "calificacion":"No disponible en Google Maps",
+            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdalMR_evc0f9Lqc-Nihzz-Ln3Uk3IFNsHBqtNxIi5A&s"
          }
       ]
    },
