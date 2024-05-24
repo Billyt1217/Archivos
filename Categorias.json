@@ -1,8 +1,8 @@
 [
-    {
-      "nombre":"Hamburguesas",
-      "detalle":"Comida rapida",
-      "imagen":"https://www.hogar.mapfre.es/media/2018/09/hamburguesa-sencilla.jpg"
+   {
+      "nombre":"Sopas",
+      "detalle":"Caldos y sopas",
+      "imagen":"https://elcomercio.pe/resizer/VYnQi__ZP6xOt9ScRTqQ3zqWT48=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MXHH3GHJUNG73F5BQPIK5W22XI.jpg"
    },
    {
       "nombre":"Pescados y mariscos",
@@ -23,16 +23,16 @@
       "nombre":"criollo",
       "detalle":"Comida peruana",
       "imagen":"https://elpopular.cronosmedia.glr.pe/original/2020/10/29/5f9a8926e0031031ee251842.jpg"
+   }, 
+    {
+      "nombre":"Hamburguesas",
+      "detalle":"Comida rapida",
+      "imagen":"https://www.hogar.mapfre.es/media/2018/09/hamburguesa-sencilla.jpg"
    },
    {
       "nombre":"Pizzas y comida Italiana",
       "detalle":"Comida italiana",
       "imagen":"https://peruretail.sfo3.cdn.digitaloceanspaces.com/wp-content/uploads/pizza-3.jpg"
    },
-  
-   {
-      "nombre":"Sopas",
-      "detalle":"Caldos y sopas",
-      "imagen":"https://elcomercio.pe/resizer/VYnQi__ZP6xOt9ScRTqQ3zqWT48=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MXHH3GHJUNG73F5BQPIK5W22XI.jpg"
-   }
+   
 ]
