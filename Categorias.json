@@ -1,4 +1,9 @@
 [
+    {
+      "nombre":"Hamburguesas",
+      "detalle":"Comida rapida",
+      "imagen":"https://www.hogar.mapfre.es/media/2018/09/hamburguesa-sencilla.jpg"
+   },
    {
       "nombre":"Pescados y mariscos",
       "detalle":"Toda la comida marina",
@@ -23,11 +28,6 @@
       "nombre":"Pizzas y comida Italiana",
       "detalle":"Comida italiana",
       "imagen":"https://peruretail.sfo3.cdn.digitaloceanspaces.com/wp-content/uploads/pizza-3.jpg"
-   },
-   {
-      "nombre":"aaaa",
-      "detalle":"Comida rapida",
-      "imagen":"https://www.hogar.mapfre.es/media/2018/09/hamburguesa-sencilla.jpg"
    },
   
    {
