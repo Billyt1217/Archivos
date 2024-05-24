@@ -170,30 +170,24 @@
    {
       "categoria":"Comida Criolla",
       "restaurantes":[
-         {
-            "nombre":"Restaurante Las Tullpas",
-            "direccion":"Dos de Mayo 390, Cajamarca 06002, Perú",
-            "calificacion":4.1,
-            "imagen_url":"https://fastly.4sqi.net/img/general/600x600/88347325_ZNUcXaRw14kwKKrP-mhW5jKQfvV85cPzGr84hneeoJc.jpg"
-         },
-         {
-            "nombre":"Restaurante El Zarco",
-            "direccion":"Jirón, Jr. del Batán 170, Cajamarca 06002, Perú",
-            "calificacion":3.7,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1FZVOB1zPIZb4d5OeN0ljlgyBJzxqDAxkf_no9A9Jw&s"
-         },
-         {
-            "nombre":"Restaurante Salas",
-            "direccion":"Cajamarca 06002, Perú",
-            "calificacion":3.9,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5MOSdpHkn5s7b_Fv3H7KFrHIXePr4hfSAuMgjICmRVQ&s"
-         },
-         {
-            "nombre":"El Querubino Restaurante - Café",
-            "direccion":"Amalia Puga 589, Cajamarca 06001, Perú",
-            "calificacion":4.3,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFmYXM59hThbaXlBe8sevubfrKGCrWuBEDo5EReDZtA&s"
-         }
-      ]
+   {
+      "nombre":"KEBAB Cajamarca",
+      "direccion":"Ucayali 370, Cajamarca, Región Cajamarca, 06001",
+      "calificacion":4.71,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtPqfI2zvz3LzjrlS9d8VgLyHtfNOxM8mNCDgE_QpZNQ&s"
+   },
+   {
+      "nombre":"El Warique de Chelo",
+      "direccion":"Jr. Colonial 198 - Barrio San Martin, Cajamarca, Región Cajamarca, 06003",
+      "calificacion":4.52,
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiScG2pilFyfBechNlGm4mJrsGGOmGR2olMIbo-wC69Q&s"
+   },
+   {
+      "nombre":"El Barrio Resto Bar Criollo",
+      "direccion":"Jr. Ayacucho 753, Cajamarca 06002, Perú",
+      "calificacion":"Sin calificación disponible",
+      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2BT8BgAeUuQAW0S8g0Vm-zmHGtqEawH4qrVewIQixHg&s"
+   }
+]
    }
 ]
