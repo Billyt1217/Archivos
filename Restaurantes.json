@@ -144,7 +144,7 @@
          {
             "nombre":"Buena Pizza",
             "direccion":"51, Cajamarca 06001, Perú",
-            "calificacion":"No disponible en Google Maps",
+            "calificacion":4.02,
             "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEbdfSa9U2xq6i01lRJtw79mXNEtkh9XW92idxo6x7-w&s"
          },
          {
