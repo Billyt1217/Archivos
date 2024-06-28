@@ -186,7 +186,7 @@
    {
       "nombre":"El Barrio Resto Bar Criollo",
       "direccion":"Jr. Ayacucho 753, Cajamarca 06002, Perú",
-      "calificacion":"Sin calificación disponible",
+      "calificacion":4.5,
       "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2BT8BgAeUuQAW0S8g0Vm-zmHGtqEawH4qrVewIQixHg&s"
    }
 ]
