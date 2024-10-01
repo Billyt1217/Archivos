@@ -1,0 +1,856 @@
+[
+  {
+    "nombre": "Chupe de Camarones",
+    "descripcion": "Cremoso y sabroso chupe preparado con camarones frescos, leche, papas, huevos y especias, acompañado de arroz blanco.",
+    "precio": 28,
+    "restaurante": "Marisquería Puerto Escondido",
+    "urlImagen": "https://origin.cronosmedia.glr.pe/large/2023/07/28/lg_64c4657e51e2d31acf06c044.jpg",
+    "id": "2"
+  },
+  {
+    "nombre": "Jalea Mixta",
+    "descripcion": "Surtido de pescados y mariscos rebozados y fritos hasta quedar dorados, servido con salsa tártara, limón y arroz.",
+    "precio": 35,
+    "restaurante": "Marisquería Puerto Escondido",
+    "urlImagen": "https://peru.info/archivos/publicacion/254-imagen-101541122022.jpg",
+    "id": "3"
+  },
+  {
+    "nombre": "Arroz con Mariscos",
+    "descripcion": "Arroz graneado cocinado con variedad de mariscos frescos, verduras y especias, acompañado de salsa criolla.",
+    "precio": 25.5,
+    "restaurante": "Marisquería Puerto Escondido",
+    "urlImagen": "https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/QT2HQD77JJGDTIYXU4COEHGIRE.jpg",
+    "id": "4"
+  },
+  {
+    "nombre": "Parihuela",
+    "descripcion": "Caldo sustancioso de pescado y mariscos cocinado con tomates, cebollas, ajo, especias y hierbas frescas, servido con yuca o arroz.",
+    "precio": 30,
+    "restaurante": "Marisquería Puerto Escondido",
+    "urlImagen": "https://cdn.recetasderechupete.com/wp-content/uploads/2019/01/sopa-peruana.jpg",
+    "id": "5"
+  },
+  {
+    "nombre": "Pulpo al Olivo",
+    "descripcion": "Pulpo tierno marinado en aceite de oliva, ajo, hierbas y especias, acompañado de papas doradas y ensalada fresca.",
+    "precio": 38,
+    "restaurante": "Marisquería Puerto Escondido",
+    "urlImagen": "https://kasani.pe/wp-content/uploads/2020/10/PULPO-AL-OLIVO-1.jpg",
+    "id": "6"
+  },
+  {
+    "nombre": "Ceviche de Pescado Blanco",
+    "descripcion": "Fresco ceviche preparado con pescado blanco de temporada, marinado en cítricos, cebolla roja, cilantro y ají, acompañado de camote, choclo y cancha.",
+    "precio": 29.9,
+    "restaurante": "Poseidón Pescados y Mariscos",
+    "urlImagen": "https://cdn7.kiwilimon.com/recetaimagen/28829/640x640/29356.jpg.webp",
+    "id": "7"
+  },
+  {
+    "nombre": "Arroz con Mariscos al Cilantro",
+    "descripcion": "Delicioso arroz graneado cocinado con variedad de mariscos frescos, verduras y cilantro fresco, acompañado de salsa criolla.",
+    "precio": 23.5,
+    "restaurante": "Poseidón Pescados y Mariscos",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9KVHMYGdJdtsCSB3AK5S_I6PAnWaLav7Bepmtj0C_ig&s",
+    "id": "8"
+  },
+  {
+    "nombre": "Jalea de Pescado",
+    "descripcion": "Crujientes trozos de pescado blanco rebozados y fritos hasta quedar dorados, servidos con salsa tártara, limón y arroz.",
+    "precio": 32,
+    "restaurante": "Poseidón Pescados y Mariscos",
+    "urlImagen": "https://www.comedera.com/wp-content/uploads/2022/02/jalea-de-pescado-500x453.jpg",
+    "id": "9"
+  },
+  {
+    "nombre": "Chupe de Cangrejo",
+    "descripcion": "Cremoso chupe preparado con cangrejos frescos, leche, papas, huevos y especias, acompañado de arroz blanco.",
+    "precio": 30,
+    "restaurante": "Poseidón Pescados y Mariscos",
+    "urlImagen": "https://www.machupicchu.biz/imagenes/articulos/chupe-de-cangrejo-con-huevo.jpg",
+    "id": "10"
+  },
+  {
+    "nombre": "Pulpo a la Parrilla",
+    "descripcion": "Pulpo tierno cocinado a la parrilla con aceite de oliva, ajo, hierbas y especias, acompañado de puré de papas y ensalada fresca.",
+    "precio": 35,
+    "restaurante": "Poseidón Pescados y Mariscos",
+    "urlImagen": "https://kasani.pe/wp-content/uploads/2020/10/PULPO-A-LA-PARRILLA.jpg",
+    "id": "11"
+  },
+  {
+    "nombre": "Sudado de Pescado",
+    "descripcion": "Sustancioso sudado de pescado fresco cocinado con tomates, cebollas, ajo, especias y hierbas frescas, servido con yuca o arroz.",
+    "precio": 28.5,
+    "restaurante": "Poseidón Pescados y Mariscos",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNpanTl1Cz_WstJbL-Rbdnt0YgDPcEvNf8fLb1Tbp-g&s",
+    "id": "12"
+  },
+  {
+    "nombre": "Ensalada de Pulpo al Grill",
+    "descripcion": "Fresca ensalada con pulpo marinado y cocido a la parrilla, acompañado de tomates cherry, pepino rojo, cebolla morada, aceitunas negras, queso feta y vinagreta de limón.",
+    "precio": 25,
+    "restaurante": "Poseidón",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqsKt0C6hEYy_smTFqg5QpeZT2tR3aoerCHvte57sEA&s",
+    "id": "13"
+  },
+  {
+    "nombre": "Carpaccio de Salmón",
+    "descripcion": "Delgadas láminas de salmón fresco marinadas en cítricos, eneldo y aceite de oliva, acompañadas de alcaparras, rúcula y queso parmesano.",
+    "precio": 32,
+    "restaurante": "Poseidón",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI3GV9GHclQb1hb66uRDSxFQPgtyd6OVxzU98B_-FMg&s",
+    "id": "14"
+  },
+  {
+    "nombre": "Arroz con Langostinos al Ajillo",
+    "descripcion": "Delicioso arroz graneado cocinado con langostinos frescos, ajo, vino blanco y especias, acompañado de perejil fresco.",
+    "precio": 35.5,
+    "restaurante": "Poseidón",
+    "urlImagen": "https://i.ytimg.com/vi/MdAht1DjGlM/maxresdefault.jpg",
+    "id": "15"
+  },
+  {
+    "nombre": "Ceviche de Camarones",
+    "descripcion": "Ceviche preparado con camarones frescos marinados en cítricos, cebolla roja, cilantro y ají, acompañado de camote, choclo y cancha.",
+    "precio": 28.5,
+    "restaurante": "Poseidón",
+    "urlImagen": "https://images-gmi-pmc.edge-generalmills.com/dd64406c-cfc5-4b84-b84b-0e052f00e9fe.jpg",
+    "id": "16"
+  },
+  {
+    "nombre": "Pescado a la Plancha con Verduras",
+    "descripcion": "Filete de pescado fresco cocinado a la plancha con aceite de oliva, ajo y hierbas frescas, acompañado de un salteado de verduras de temporada.",
+    "precio": 38,
+    "restaurante": "Poseidón",
+    "urlImagen": "https://www.cocinacaserayfacil.net/wp-content/uploads/2019/04/lubina-a-la-plancha-con-verduras.jpg",
+    "id": "17"
+  },
+  {
+    "nombre": "Sopa de Mariscos",
+    "descripcion": "Sustanciosa sopa preparada con variedad de mariscos frescos, verduras, tomates, cebollas, ajo y especias, acompañada de crutones.",
+    "precio": 29,
+    "restaurante": "Poseidón",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkao9fKfZCDuFxKRe1w4KPab3pwo3ETk7nBOi2HANlPQ&s",
+    "id": "18"
+  },
+  {
+    "nombre": "Chupe de Pescado",
+    "descripcion": "Cremoso chupe preparado con pescado blanco fresco, leche, papas, huevos y especias, acompañado de arroz blanco o yuca.",
+    "precio": 29.5,
+    "restaurante": "Marisquería La Curva",
+    "urlImagen": "https://imgmedia.buenazo.pe/1200x660/buenazo/original/2021/05/28/60b1b76854cd64283254e877.jpg",
+    "id": "22"
+  },
+  {
+    "nombre": "Parihuela Mixta",
+    "descripcion": "Sustancioso caldo de pescado y mariscos cocinado con tomates, cebollas, ajo, especias y hierbas frescas, acompañado de yuca o arroz.",
+    "precio": 32,
+    "restaurante": "Marisquería La Curva",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJtta_9L33ZJrg7mVoM9q_Hz797Rpq-lZRt9cU3h6KkQ&s",
+    "id": "23"
+  },
+  {
+    "nombre": "Pulpo al Chilcano",
+    "descripcion": "Pulpo tierno marinado en un fresco chilcano de limón, ají, cebolla y cilantro, acompañado de camote sancochado y ensalada fresca.",
+    "precio": 35,
+    "restaurante": "Marisquería La Curva",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqv60SdJj-i2jDRxojOHEVb-FI7zZcNOOFE53TNn1Y4g&s",
+    "id": "24"
+  },
+  {
+    "nombre": "Chupe de Pescado con Algas",
+    "descripcion": "Cremoso chupe preparado con pescado blanco fresco, leche, papas, huevos, especias y algas marinas, acompañado de arroz blanco o yuca.",
+    "precio": 30.5,
+    "restaurante": "Alga Marina Cebichería",
+    "urlImagen": "https://img-global.cpcdn.com/recipes/19b04d73a2a52313/1200x630cq70/photo.jpg",
+    "id": "28"
+  },
+  {
+    "nombre": "Parihuela Mixta con Algas",
+    "descripcion": "Sustancioso caldo de pescado y mariscos cocinado con tomates, cebollas, ajo, especias, hierbas frescas y algas marinas, acompañado de yuca o arroz.",
+    "precio": 33,
+    "restaurante": "Alga Marina Cebichería",
+    "urlImagen": "https://elcomercio.pe/resizer/jEQoZXiFYDzCxIy32GuB5h5csC8=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/TCZWKSGQAFE45PCTSHC7737MC4.jpg",
+    "id": "29"
+  },
+  {
+    "nombre": "Ensalada de Pulpo con Algas Marinas",
+    "descripcion": "Fresca ensalada con pulpo marinado y cocido, acompañado de algas marinas frescas, tomates cherry, pepino rojo, cebolla morada, aceitunas negras y aceite de oliva virgen extra.",
+    "precio": 26,
+    "restaurante": "Alga Marina Cebichería",
+    "urlImagen": "https://cocinadeluisa.com/wp-content/uploads/2020/05/img_20200510_120047-pulpo-troceado.jpg",
+    "id": "30"
+  },
+  {
+    "nombre": "Pollo Chop Suey",
+    "descripcion": "Tiras de pollo salteadas con verduras frescas (brócoli, zanahoria, cebolla) en una salsa agridulce, acompañado de arroz chaufa.",
+    "precio": 25,
+    "restaurante": "Chifa Central",
+    "urlImagen": "https://i.blogs.es/cd8cb3/chopsuey-de-pollo-pakus-futurobloguero/1366_2000.jpg",
+    "id": "31"
+  },
+  {
+    "nombre": "Arroz Chaufa Especial",
+    "descripcion": "Arroz frito con pollo, carne de res, cerdo, camarones, tortilla china, huevos y verduras, acompañado de wantan frito.",
+    "precio": 28.5,
+    "restaurante": "Chifa Central",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJIdWd0YVXyvo7RAAaSc-HBoItBUN1TPj1CNvj9e9ww&s",
+    "id": "32"
+  },
+  {
+    "nombre": "Tallarín Saltado de Carne",
+    "descripcion": "Tallarines chinos salteados con carne de res, verduras frescas (brócoli, zanahoria, cebolla) y salsa de soya, acompañado de wantan frito.",
+    "precio": 27,
+    "restaurante": "Chifa Central",
+    "urlImagen": "https://origin.cronosmedia.glr.pe/large/2020/09/23/lg_5f6b89e58dba0136a669b1e2.jpg",
+    "id": "33"
+  },
+  {
+    "nombre": "Kam Lu Wantan",
+    "descripcion": "Sopa china con caldo sustancioso, wantanes rellenos de carne, pollo o verduras, huevos cocidos, cebollín y wonton frito.",
+    "precio": 22.5,
+    "restaurante": "Chifa Central",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEl6I7n_rmmDjB7TWFc-l9G8u_Bf0TpsUASGr5m7mulA&s",
+    "id": "34"
+  },
+  {
+    "nombre": "Costillas Chinas Agridulces",
+    "descripcion": "Costillas de cerdo carnosas marinadas en salsa agridulce, salteadas con cebolla y pimiento, acompañadas de arroz blanco.",
+    "precio": 30,
+    "restaurante": "Chifa Central",
+    "urlImagen": "https://www.gastrolabweb.com/u/fotografias/m/2021/7/11/f850x638-16072_93561_5050.jpg",
+    "id": "35"
+  },
+  {
+    "nombre": "Pollo Kung Pao Picante",
+    "descripcion": "Tiras de pollo salteadas con cacahuates, maní, chile seco, jengibre y ajo, en una salsa picante y sabrosa, acompañado de arroz blanco.",
+    "precio": 26,
+    "restaurante": "Restaurant Hot",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRj-oPg5I2E0nXpqhSfEC2CJo_an09fpwApVUAcMHbjw&s",
+    "id": "37"
+  },
+  {
+    "nombre": "Wonton Frito Picante",
+    "descripcion": "Wontones rellenos de carne o verduras, fritos hasta quedar dorados y bañados en una salsa picante especial, acompañados de cebollín picado.",
+    "precio": 23.5,
+    "restaurante": "Restaurant Hot",
+    "urlImagen": "https://buenprovecho.hn/wp-content/uploads/2021/05/Wonton-fritos-cerdo.png",
+    "id": "38"
+  },
+  {
+    "nombre": "Tallarín Saltado de Carne Picante",
+    "descripcion": "Tallarines chinos salteados con carne de res, verduras frescas (brócoli, zanahoria, cebolla) y una salsa picante a base de chile, ajo y jengibre, acompañado de wantan frito.",
+    "precio": 28,
+    "restaurante": "Restaurant Hot",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP3cEsBQdzh22m6Pz_MfUR4tCAXPeOiccq4s5z9BkYRQ&s",
+    "id": "39"
+  },
+  {
+    "nombre": "Mapo Tofu Picante",
+    "descripcion": "Tofu firme salteado con carne molida, chile seco, jengibre y ajo, en una salsa picante y sabrosa, acompañado de arroz blanco.",
+    "precio": 24.5,
+    "restaurante": "Restaurant Hot",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTmBz_IyWD0AkuSUDBNfdYjD2NQjfy2cpLMUYwxZWnYw&s",
+    "id": "40"
+  },
+  {
+    "nombre": "Costillas Chinas al Ajillo Picante",
+    "descripcion": "Costillas de cerdo carnosas marinadas en ajo, jengibre y chile, salteadas hasta quedar doradas, acompañadas de arroz blanco.",
+    "precio": 31,
+    "restaurante": "Restaurant Hot",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdhw5gSaarPeYpbJuVN2m6NdHcIUmzmB5Wmj5ai20E5w&s",
+    "id": "41"
+  },
+  {
+    "nombre": "Pollo Szechuan Picante",
+    "descripcion": "Pollo marinado en una salsa picante de Sichuan con chile seco, ajo, jengibre y especias chinas, salteado con verduras frescas, acompañado de arroz blanco.",
+    "precio": 27.5,
+    "restaurante": "Restaurant Hot",
+    "urlImagen": "https://c8.alamy.com/compes/2at94xd/pollo-picante-de-szechuan-casero-con-pimienta-y-arroz-2at94xd.jpg",
+    "id": "42"
+  },
+  {
+    "nombre": "Arroz Wok Express",
+    "descripcion": "Arroz frito con tu elección de proteína (pollo, carne, tofu), verduras frescas (brócoli, zanahoria, cebolla) y huevo, listo para llevar en solo 10 minutos.",
+    "precio": 14,
+    "restaurante": "WOK EXPRESS",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCJILdHcWuQWehMt2AXg0jNwO5dFraVkfHLht-ouQ7fg&s",
+    "id": "44"
+  },
+  {
+    "nombre": "Wok de Pollo con Verduras",
+    "descripcion": "Pollo salteado con verduras frescas (brócoli, zanahoria, cebolla) en una salsa ligera de soya y jengibre, listo para llevar en solo 8 minutos.",
+    "precio": 12.5,
+    "restaurante": "WOK EXPRESS",
+    "urlImagen": "https://storage.googleapis.com/avena-recipes/2019/10/1571782119565.jpeg",
+    "id": "45"
+  },
+  {
+    "nombre": "Wok de Carne con Arroz",
+    "descripcion": "Carne de res salteada con verduras frescas (brócoli, zanahoria, cebolla) y salsa de soya, servido sobre una cama de arroz, listo para llevar en solo 10 minutos.",
+    "precio": 13.5,
+    "restaurante": "WOK EXPRESS",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu0QxnkogSt2Z9kD8W99o27NdM1q8m1J-lOjEm-En1_g&s",
+    "id": "46"
+  },
+  {
+    "nombre": "Wok de Tofu con Verduras",
+    "descripcion": "Tofu firme salteado con verduras frescas (brócoli, zanahoria, cebolla) en una salsa ligera de soya y jengibre, listo para llevar en solo 8 minutos.",
+    "precio": 11,
+    "restaurante": "WOK EXPRESS",
+    "urlImagen": "https://www.hazteveg.com/img/recipes/full/201601/R22-63338.jpg",
+    "id": "47"
+  },
+  {
+    "nombre": "Tallarín Saltado de Pollo con Champignon",
+    "descripcion": "Tallarines chinos salteados con pollo, champiñones frescos, cebolla china y salsa de soya, acompañado de wantan frito.",
+    "precio": 26,
+    "restaurante": "Chifa Xin Hua",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNcA0214oh5F5mNFeXEby2GBN5UOspH9uH9SogjPnyMw&s",
+    "id": "51"
+  },
+  {
+    "nombre": "Costillas Chinas a la BBQ",
+    "descripcion": "Costillas de cerdo carnosas marinadas en salsa BBQ casera, horneadas hasta quedar tiernas y bañadas en la misma salsa, acompañadas de arroz blanco o papas fritas.",
+    "precio": 32,
+    "restaurante": "Chifa Xin Hua",
+    "urlImagen": "https://www.comedera.com/wp-content/uploads/2022/08/Costillitas-Chinas-shutterstock_1645275700.jpg",
+    "id": "53"
+  },
+  {
+    "nombre": "Pollo en Salsa Teriyaki con Arroz Chaufa",
+    "descripcion": "Pollo marinado en salsa teriyaki y cocido a la plancha, acompañado de arroz chaufa tradicional.",
+    "precio": 29.5,
+    "restaurante": "Chifa Xin Hua",
+    "urlImagen": "https://lucerovilchezcocina.com/wp-content/uploads/2016/08/POLLO-TERIYAKI.jpg",
+    "id": "54"
+  },
+  {
+    "nombre": "Caldo Verde de Cajamarca",
+    "descripcion": "Sustancioso caldo verde preparado con papa verde, trigo, culantro, perejil y huevo escalfado, acompañado de cancha serrana.",
+    "precio": 15,
+    "restaurante": "Restaurante Las Tullpas",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtCOaLzzZ1CWygt_7kUrSSBxqVDBoZo0r8E9iF6TWQDg&s",
+    "id": "55"
+  },
+  {
+    "nombre": "Cuy Chactado a la Piedra",
+    "descripcion": "Cuy joven marinado en especias y cocinado a la piedra caliente, acompañado de papa sancochada, choclo y salsa huancaína.",
+    "precio": 35,
+    "restaurante": "Restaurante Las Tullpas",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lQMuMMMWDmDvxuEW93bfCe-UN8I0g8EIkNU2rvRERA&s",
+    "id": "56"
+  },
+  {
+    "nombre": "Arroz con Pato ",
+    "descripcion": "Arroz graneado cocinado con pato marinado en chicha de jora, ají panca, ajo y especias, acompañado de zarza criolla y encurtidos.",
+    "precio": 28,
+    "restaurante": "Restaurante Las Tullpas",
+    "urlImagen": "https://www.comida-peruana.com/base/stock/Recipe/arroz-con-pato/arroz-con-pato_web.jpg.webp",
+    "id": "57"
+  },
+  {
+    "nombre": "Trucha Frita con Papa ",
+    "descripcion": "Trucha fresca frita hasta quedar dorada, acompañada de papa sancochada bañada en salsa huancaína y ensalada fresca.",
+    "precio": 25,
+    "restaurante": "Restaurante Las Tullpas",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPt1jlgb-RMsVVOD_NFJejW__Wwz9SgIfS1NTKvX8I2Q&s",
+    "id": "58"
+  },
+  {
+    "nombre": "Humitas con Queso",
+    "descripcion": "Masa de maíz rellena de queso fresco y cocida en hojas de choclo, acompañada de salsa huancaína.",
+    "precio": 12,
+    "restaurante": "Restaurante Las Tullpas",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9wA-t_ICcIqGsl7wo1ZqFCsRlQTzjqXgXBqauu1Db6g&s",
+    "id": "59"
+  },
+  {
+    "nombre": "Humitas",
+    "descripcion": "Masa de maíz rellena de queso fresco y cocida en hojas de choclo, servida con salsa huancaína.",
+    "precio": 12,
+    "categoria": "Entrada",
+    "restaurante": "Restaurante El Zarco",
+    "urlImagen": "https://www.gourmet.cl/wp-content/uploads/2012/01/Humitas-e1325692985982.jpg",
+    "id": "76"
+  },
+  {
+    "nombre": "Tamales Verdes",
+    "descripcion": "Masa de maíz rellena con trozos de chancho y verduras, envuelta en hojas de plátano y cocida al vapor.",
+    "precio": 18,
+    "categoria": "Entrada",
+    "restaurante": "Restaurante El Zarco",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2PSTSpb-qNRQUJ4XfIcMabGHRIprnj6chPzJWgmF72Q&s",
+    "id": "77"
+  },
+  {
+    "nombre": "Choclo con Queso",
+    "descripcion": "Choclo cocido con mantequilla y queso fresco, acompañado de zarza criolla.",
+    "precio": 10,
+    "categoria": "Entrada",
+    "restaurante": "Restaurante El Zarco",
+    "urlImagen": "https://storage.googleapis.com/fitia-api-bucket/media/images/recipe_images/1001196.jpg",
+    "id": "78"
+  },
+  {
+    "nombre": "Shambar",
+    "descripcion": "Guiso contundente a base de trigo, menestras (frijoles, garbanzos), verduras (habas, zanahoria), carne de cerdo y aliños.",
+    "precio": 24,
+    "categoria": "Plato Fuerte",
+    "restaurante": "Restaurante Salas",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT686tVcP_bRUiFfvsgrkZal9gVyli0x_JXFdTxn3Jt6w&s",
+    "id": "89"
+  },
+  {
+    "nombre": "Seco de Chambar",
+    "descripcion": "Plato típico de Chiclayo a base de carne de chivo o cordero cocida en chicha de jora, con cebolla, ají panca y especias, acompañado de arroz blanco o fideo verde.",
+    "precio": 26,
+    "categoria": "Plato Fuerte",
+    "restaurante": "El Querubino Restaurante - Café",
+    "urlImagen": "https://www.peru.travel/Contenido/General/Imagen/es/465/1.1/Shambar_Trujillo.jpg",
+    "id": "98"
+  },
+  {
+    "nombre": "Ceviche Clásico",
+    "descripcion": "Pescado fresco marinado en jugo de limón, con cebolla roja, ají limo, cilantro y acompañado de choclo y camote.",
+    "precio": 22,
+    "categoria": "Entrada",
+    "restaurante": "Restaurante Las Tullpas",
+    "urlImagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2015/12/16/14502688275255.jpg",
+    "id": "101"
+  },
+  {
+    "nombre": "Ají de Gallina",
+    "descripcion": "Guiso cremoso de pechuga de pollo deshilachada, con una salsa de ají amarillo, nueces, leche y queso parmesano, servido con arroz blanco y papas.",
+    "precio": 25,
+    "categoria": "Plato Principal",
+    "restaurante": "Restaurante Las Tullpas",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_IokaVVKIO9d7Xy-DADQWXGsLlrw53loUiHNJN1J7OQ&s",
+    "id": "102"
+  },
+  {
+    "nombre": "Lomo Saltado",
+    "descripcion": "Trozos de lomo fino salteados con cebolla, tomate, ají amarillo y salsa de soja, acompañado de papas fritas y arroz blanco.",
+    "precio": 28,
+    "categoria": "Plato Principal",
+    "restaurante": "Restaurante Las Tullpas",
+    "urlImagen": "https://i.pinimg.com/564x/bc/14/48/bc1448c9b55fbe2255378a79ce118b9d.jpg",
+    "id": "103"
+  },
+  {
+    "nombre": "Caldo de Pata",
+    "descripcion": "Caldo sustancioso y reconfortante hecho con pata de res, papa, maíz, yuca, zanahoria, cilantro y perejil. Se sirve con arroz blanco y limón.",
+    "precio": 15,
+    "categoria": "Sopa",
+    "restaurante": "Restaurante Caldos \"El Paisita\"",
+    "urlImagen": "https://recetascocinaperuana.com/wp-content/uploads/2022/05/caldo-de-pata-de-res.jpg",
+    "id": "201"
+  },
+  {
+    "nombre": "Caldo de Mondongo",
+    "descripcion": "Caldo sabroso y nutritivo elaborado con mondongo, papa, maíz, yuca, zanahoria, cilantro y perejil. Se sirve con arroz blanco y ají.",
+    "precio": 18,
+    "categoria": "Sopa",
+    "restaurante": "Restaurante Caldos \"El Paisita\"",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQMBDJyvLkG-yXJSqz9ADW-FJ-IddYSSQSfBoGPonQw&s",
+    "id": "202"
+  },
+  {
+    "nombre": "Caldo Verde",
+    "descripcion": "Caldo tradicional hecho con yuca, papa, col rizada, tocino, chorizo y cilantro. Se sirve con arroz blanco y limón.",
+    "precio": 12,
+    "categoria": "Sopa",
+    "restaurante": "Restaurante Caldos \"El Paisita\"",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0AFXOJuOqVBXHGm_Mw3UqvhPur2_CKoWkk_X4OG05Q&s",
+    "id": "203"
+  },
+  {
+    "nombre": "Caldo de Mote",
+    "descripcion": "Caldo andino elaborado con maíz mote, papa, habas, choclo, queso fresco y hierbabuena. Se sirve con aguacate y ají.",
+    "precio": 14,
+    "categoria": "Sopa",
+    "restaurante": "CALDOS - LA ALAMEDA",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbqrpGfrcT8OOXQAL2qLveXAF9f8UPQWsPt4YIOwT4Hg&s",
+    "id": "301"
+  },
+  {
+    "nombre": "Caldo de Quinua",
+    "descripcion": "Caldo nutritivo y completo hecho con quinua, pollo o carne, verduras y hierbas aromáticas. Se sirve con arroz blanco y limón.",
+    "precio": 16,
+    "categoria": "Sopa",
+    "restaurante": "CALDOS - LA ALAMEDA",
+    "urlImagen": "https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/1c7c9902781c62ebd24ea257fd5a6271.jpg",
+    "id": "302"
+  },
+  {
+    "nombre": "Locro de Papa",
+    "descripcion": "Guiso espeso y sustancioso preparado con papa, maíz, queso fresco, huevos duros y aguacate. Se sirve con pan y ají.",
+    "precio": 18,
+    "categoria": "Sopa",
+    "restaurante": "CALDOS - LA ALAMEDA",
+    "urlImagen": "https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/721ad7b481b195044e040786df867d74.jpg",
+    "id": "303"
+  },
+  {
+    "nombre": "Sopa de Fideos con Pollo",
+    "descripcion": "Caldo clásico hecho con fideos, pollo, verduras y hierbas aromáticas. Se sirve con pan fresco y limón.",
+    "precio": 10,
+    "categoria": "Sopa",
+    "restaurante": "Soperos",
+    "urlImagen": "https://t1.uc.ltmcdn.com/es/posts/3/9/3/como_hacer_sopa_de_pollo_con_fideos_50393_orig.jpg",
+    "id": "401"
+  },
+  {
+    "nombre": "Crema de Verduras",
+    "descripcion": "Crema suave y cremosa elaborada con verduras variadas, leche o crema y especias. Se sirve con crutones o pan tostado.",
+    "precio": 12,
+    "categoria": "Sopa",
+    "restaurante": "Soperos",
+    "urlImagen": "https://www.comedera.com/wp-content/uploads/2018/08/crema-de-verduras.jpg",
+    "id": "402"
+  },
+  {
+    "nombre": "Sopa de Lentejas",
+    "descripcion": "Sopa nutritiva y reconfortante hecha con lentejas, verduras y especias. Se sirve con pan fresco y limón.",
+    "precio": 13,
+    "categoria": "Sopa",
+    "restaurante": "Soperos",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSfilCoYhnP9hUbRqq2GIIi8qCzWJK_v4T630-NVaTQ&s",
+    "id": "404"
+  },
+  {
+    "nombre": "Lomo Saltado",
+    "descripcion": "Salteado de carne de res con cebolla, tomate, pimiento y papas fritas. Se sirve con arroz blanco y salsa criolla.",
+    "precio": 25,
+    "categoria": "Criollo",
+    "restaurante": "KEBAB Cajamarca",
+    "urlImagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lomo-saltado-perudelights.jpg/800px-Lomo-saltado-perudelights.jpg",
+    "id": "501"
+  },
+  {
+    "nombre": "Ají de Gallina",
+    "descripcion": "Crema de gallina con papas, nueces, pecanas y queso parmesano. Se sirve con arroz blanco y pan.",
+    "precio": 22,
+    "categoria": "Criollo",
+    "restaurante": "KEBAB Cajamarca",
+    "urlImagen": "https://comeperuano.b-cdn.net/wp-content/uploads/2022/08/receta-de-aji-de-gallina-con-huevo-sancochado.jpg",
+    "id": "502"
+  },
+  {
+    "nombre": "Causa Rellena",
+    "descripcion": "Pastel de papas relleno de pollo, atún o marisco. Se sirve con salsa criolla y mayonesa.",
+    "precio": 18,
+    "categoria": "Criollo",
+    "restaurante": "KEBAB Cajamarca",
+    "urlImagen": "https://cdn0.recetasgratis.net/es/posts/8/6/2/causa_limena_31268_orig.jpg",
+    "id": "503"
+  },
+  {
+    "nombre": "Rocoto Relleno",
+    "descripcion": "Ají rocoto relleno de carne picada, queso, pasas y nueces. Se sirve con papa sancochada y salsa criolla.",
+    "precio": 15,
+    "categoria": "Criollo",
+    "restaurante": "El Warique de Chelo",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbKJlyz2iBPXfMads_-zM1uH0EtxVPs5UcQ&s",
+    "id": "601"
+  },
+  {
+    "nombre": "Papa a la Huancaína",
+    "descripcion": "Papa cocida cubierta con una salsa cremosa de queso, leche, huevo y especias. Se sirve con aceitunas negras y huevo duro.",
+    "precio": 12,
+    "categoria": "Criollo",
+    "restaurante": "El Warique de Chelo",
+    "urlImagen": "https://perudelights.com/wp-content/uploads/2013/07/papa-a-la-huancaina-lista-1024x768.jpg",
+    "id": "602"
+  },
+  {
+    "nombre": "Trucha a la Sal",
+    "descripcion": "Trucha entera horneada en sal. Se sirve con papas sancochadas y ensalada.",
+    "precio": 20,
+    "categoria": "Criollo",
+    "restaurante": "El Warique de Chelo",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3G_N7chWP2DjA-3iItNpNapCDSwQHsxUAw&s",
+    "id": "603"
+  },
+  {
+    "nombre": "Lomo Saltado Flameado",
+    "descripcion": "Lomo saltado flambéed with brandy for a touch of theatrics.",
+    "precio": 28,
+    "categoria": "Criollo",
+    "restaurante": "El Barrio Resto Bar Criollo",
+    "urlImagen": "https://64.media.tumblr.com/5dd8f485e514dad9af1343176ed5b557/d42ac2a8e4b56f4a-68/s500x750/f05a98c8167833e594d9dad784da71f0c67541c4.jpg",
+    "id": "707"
+  },
+  {
+    "nombre": "Ají de Gallina",
+    "descripcion": "Crema de gallina con papas, nueces, pecanas y queso parmesano. Se sirve con arroz blanco y pan.",
+    "precio": 22,
+    "categoria": "Criollo",
+    "restaurante": "El Barrio Resto Bar Criollo",
+    "urlImagen": "https://www.comedera.com/wp-content/uploads/2013/10/aji-de-gallina.jpg",
+    "id": "702"
+  },
+  {
+    "nombre": "Pizza Personal Pepperoni",
+    "descripcion": "Clásica pizza con pepperoni, salsa de tomate y mozzarella.",
+    "precio": 12.5,
+    "categoria": "Pizza",
+    "restaurante": "Pizza Hut",
+    "urlImagen": "https://www.shutterstock.com/image-photo/personal-pepperoni-pizza-260nw-1281330901.jpg",
+    "id": "101"
+  },
+  {
+    "nombre": "Pizza Personal Hawaiana",
+    "descripcion": "Pizza con jamón, piña y mozzarella.",
+    "precio": 12.5,
+    "categoria": "Pizza",
+    "restaurante": "Pizza Hut",
+    "urlImagen": "https://cdn7.kiwilimon.com/recetaimagen/11116/1328.jpg",
+    "id": "102"
+  },
+  {
+    "nombre": "Pizza Mediana Super Supreme",
+    "descripcion": "Pizza con pepperoni, salchicha, tocino, champiñones, cebolla y pimiento verde.",
+    "precio": 25,
+    "categoria": "Pizza",
+    "restaurante": "Pizza Hut",
+    "urlImagen": "https://media-cdn.tripadvisor.com/media/photo-s/0e/aa/06/53/super-supreme.jpg",
+    "id": "103"
+  },
+  {
+    "nombre": "Pizza Familiar Mexicana",
+    "descripcion": "Pizza con chorizo, cebolla, pimiento verde y mozzarella.",
+    "precio": 32.5,
+    "categoria": "Pizza",
+    "restaurante": "Pizza Hut",
+    "urlImagen": "https://www.gastrolabweb.com/u/fotografias/m/2021/2/9/f1280x720-8328_140003_5050.jpg",
+    "id": "104"
+  },
+  {
+    "nombre": "Pizza Hut Cheese Lovers",
+    "descripcion": "Pizza con mozzarella, cheddar, provolone y parmesano.",
+    "precio": 32.5,
+    "categoria": "Pizza",
+    "restaurante": "Pizza Hut",
+    "urlImagen": "https://i.pinimg.com/originals/bc/0a/54/bc0a54fca424c7a4247d89e5f5150171.jpg",
+    "id": "105"
+  },
+  {
+    "nombre": "Pizza Hut Veggie Lovers",
+    "descripcion": "Pizza con champiñones, cebolla, pimiento verde, aceitunas negras y tomate.",
+    "precio": 32.5,
+    "categoria": "Pizza",
+    "restaurante": "Pizza Hut",
+    "urlImagen": "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.veggie-lovers.48ba54d49ff2257671521b477967633a.1.jpg",
+    "id": "106"
+  },
+  {
+    "nombre": "Pizza Hut Pan Pizza Cheese Lovers",
+    "descripcion": "Pizza Cheese Lovers con masa de pan.",
+    "precio": 35,
+    "categoria": "Pizza",
+    "restaurante": "Buena Pizza",
+    "urlImagen": "https://nmgprod.s3.amazonaws.com/media/files/16/e9/16e9f32596537b9563af50d1d0a2dbad/cover_image.jpg.760x400_q85_crop_upscale.jpg",
+    "id": "108"
+  },
+  {
+    "nombre": "Pizza Personal Margarita",
+    "descripcion": "Clásica pizza con mozzarella, salsa de tomate y albahaca fresca.",
+    "precio": 10,
+    "categoria": "Pizza",
+    "restaurante": "Buena Pizza",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7-18uhQBshQdfFRgRRciaLghKoajjI9A3g&s",
+    "id": "201"
+  },
+  {
+    "nombre": "Pizza Personal Cuatro Quesos",
+    "descripcion": "Pizza con mozzarella, cheddar, provolone y parmesano.",
+    "precio": 12,
+    "categoria": "Pizza",
+    "restaurante": "Renzo's Pizzas",
+    "urlImagen": "https://www.record.com.pe/wp-content/uploads/2021/09/pizza-4-quesos-g-1.png",
+    "id": "202"
+  },
+  {
+    "nombre": "Pizza Mediana Pepperoni",
+    "descripcion": "Pizza con pepperoni, salsa de tomate y mozzarella.",
+    "precio": 18,
+    "categoria": "Pizza",
+    "restaurante": "Renzo's Pizzas",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn1VaKuxw7KSPS6F_4f882K1r0N1xGUipLuA&s",
+    "id": "203"
+  },
+  {
+    "nombre": "Pizza Familiar Hawaiana",
+    "descripcion": "Pizza con jamón, piña y mozzarella.",
+    "precio": 25,
+    "categoria": "Pizza",
+    "restaurante": "Renzo's Pizzas",
+    "urlImagen": "https://cdn2.cocinadelirante.com/800x600/filters:format(webp):quality(75)/sites/default/files/images/2019/11/como-hacer-pizza-hawaiana.jpg",
+    "id": "204"
+  },
+  {
+    "nombre": "Pizza Super Supreme",
+    "descripcion": "Pizza con pepperoni, salchicha, tocino, champiñones, cebolla y pimiento verde.",
+    "precio": 30,
+    "categoria": "Pizza",
+    "restaurante": "Renzo's Pizzas",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE9X95fVeGYaIS500r7Fm3g4RSE5IaBkWfiw&s",
+    "id": "205"
+  },
+  {
+    "nombre": "Pizza Vegetariana",
+    "descripcion": "Pizza con champiñones, cebolla, pimiento verde, aceitunas negras y tomate.",
+    "precio": 28,
+    "categoria": "Pizza",
+    "restaurante": "Renzo's Pizzas",
+    "urlImagen": "https://cdn.shopify.com/s/files/1/0191/9978/files/Pizza-Veggie-Supreme-blog.jpg?v=1652775259",
+    "id": "206"
+  },
+  {
+    "nombre": "Pizza Especial Renzo's",
+    "descripcion": "Pizza con pepperoni, salchicha, tocino, champiñones, cebolla, pimiento verde y aceitunas negras.",
+    "precio": 32,
+    "categoria": "Pizza",
+    "restaurante": "Renzo's Pizzas",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9ch5pQvyshRROfugXBJQMiQ0xQY5Yh5h4w&s",
+    "id": "207"
+  },
+  {
+    "nombre": "Pizza Personal Margarita",
+    "descripcion": "Clásica pizza con mozzarella, salsa de tomate y albahaca fresca.",
+    "precio": 12,
+    "categoria": "Pizza",
+    "restaurante": "EL Marengo Pizzeria",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5HG1uuePUywa829LWlXJxN68a9mW_WZNiUw&s",
+    "id": "301"
+  },
+  {
+    "nombre": "Pizza Personal Cuatro Quesos",
+    "descripcion": "Pizza con mozzarella, cheddar, provolone y parmesano.",
+    "precio": 14,
+    "categoria": "Pizza",
+    "restaurante": "El Marengo Pizzeria",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT895uy-A4kDmsiS7mrsyW1i46b5SjcAmb7uA&s",
+    "id": "302"
+  },
+  {
+    "nombre": "Pizza Mediana Pepperoni",
+    "descripcion": "Pizza con pepperoni, salsa de tomate y mozzarella.",
+    "precio": 20,
+    "categoria": "Pizza",
+    "restaurante": "El Marengo Pizzeria",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3vSLw9z_07m1UkGtfLEnROJoUen3Wd1Jd1Q&s",
+    "id": "303"
+  },
+  {
+    "nombre": "Pizza Super Supreme",
+    "descripcion": "Pizza con pepperoni, salchicha, tocino, champiñones, cebolla y pimiento verde.",
+    "precio": 36,
+    "categoria": "Pizza",
+    "restaurante": "Bambino PIZZA",
+    "urlImagen": "https://i.pinimg.com/736x/4a/48/b5/4a48b5917f395b1df042abe745665104.jpg",
+    "id": "405"
+  },
+  {
+    "nombre": "Pizza Vegetariana",
+    "descripcion": "Pizza con champiñones, cebolla, pimiento verde, aceitunas negras y tomate.",
+    "precio": 34,
+    "categoria": "Pizza",
+    "restaurante": "Bambino PIZZA",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeVLqLbJ8M5lVvqZsn6eHxJIeePKNXRfOzw&s",
+    "id": "406"
+  },
+  {
+    "nombre": "Pizza Especial Bambino",
+    "descripcion": "Pizza con pepperoni, salchicha, tocino, champiñones, cebolla, pimiento verde, aceitunas negras, jamón y extra queso.",
+    "precio": 40,
+    "categoria": "Pizza",
+    "restaurante": "Bambino PIZZA",
+    "urlImagen": "https://www.mimenu.pe/wp-content/uploads/2020/09/241-1.jpg",
+    "id": "407"
+  },
+  {
+    "nombre": "Hamburguesa Clásica",
+    "descripcion": "Hamburguesa de carne de res con queso americano, lechuga, tomate, cebolla y salsa de la casa.",
+    "precio": 15,
+    "categoria": "Hamburguesa",
+    "restaurante": "El Cowboy Burger Cajamarca",
+    "urlImagen": "https://d31npzejelj8v1.cloudfront.net/media/recipemanager/recipe/1687289278_clasica-bem.jpg",
+    "id": "501"
+  },
+  {
+    "nombre": "Hamburguesa Bacon Cheese",
+    "descripcion": "Hamburguesa de carne de res con queso americano, tocino, lechuga, tomate, cebolla y salsa de la casa.",
+    "precio": 17,
+    "categoria": "Hamburguesa",
+    "restaurante": "El Cowboy Burger",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8COoUObEPgbMqOPzHIiUVAZFfWIzF6iyvJA&s",
+    "id": "502"
+  },
+  {
+    "nombre": "Hamburguesa BBQ",
+    "descripcion": "Hamburguesa de carne de res con queso americano, tocino, cebolla caramelizada, salsa BBQ y lechuga.",
+    "precio": 18,
+    "categoria": "Hamburguesa",
+    "restaurante": "El Cowboy Burger",
+    "urlImagen": "https://www.recetasnestlecam.com/sites/default/files/srh_recipes/74e1a2dfe688f08eedf86a3711c8e4fb.png",
+    "id": "503"
+  },
+  {
+    "nombre": "Hamburguesa Mexicana",
+    "descripcion": "Hamburguesa de carne de res con queso cheddar, guacamole, pico de gallo, jalapeños y cebolla morada.",
+    "precio": 19,
+    "categoria": "Hamburguesa",
+    "restaurante": "El Cowboy Burger",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLcGPt35pKfTcbELixaSLoqWuZgN9QhvKIDQ&s",
+    "id": "504"
+  },
+  {
+    "nombre": "Hamburguesa Vegetariana",
+    "descripcion": "Hamburguesa de portobello, queso mozzarella, tomate, lechuga, cebolla y salsa de la casa.",
+    "precio": 16,
+    "categoria": "Hamburguesa",
+    "restaurante": "El Cowboy Burger",
+    "urlImagen": "https://statics-cuidateplus.marca.com/cms/styles/natural/azblob/hamburguesa_vegetal_ok.jpg.webp?itok=rLa1Hqy1",
+    "id": "505"
+  },
+  {
+    "nombre": "Hamburguesa Clásica",
+    "descripcion": "Jugosa hamburguesa de carne de res a la parrilla con queso americano, lechuga, tomate, cebolla morada y salsa de la casa.",
+    "precio": 12.5,
+    "categoria": "Hamburguesa",
+    "restaurante": "La Abuela Hamburguesa",
+    "urlImagen": "https://img.freepik.com/fotos-premium/foto-stock-hamburguesa-clasica-aislada-blanco_940723-217.jpg",
+    "id": "601"
+  },
+  {
+    "nombre": "Hamburguesa Bacon Cheese",
+    "descripcion": "Deliciosa hamburguesa de carne de res a la parrilla con queso americano, tocino crujiente, lechuga, tomate, cebolla morada y salsa de la casa.",
+    "precio": 14.5,
+    "categoria": "Hamburguesa",
+    "restaurante": "La Abuela Hamburguesa",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksly7jvn2KeUu33LXWWqgSFPMSP1pmOmGwQ&s",
+    "id": "602"
+  },
+  {
+    "nombre": "Hamburguesa BBQ",
+    "descripcion": "Saborosa hamburguesa de carne de res a la parrilla con queso americano, tocino crujiente, cebolla caramelizada, salsa BBQ casera y lechuga.",
+    "precio": 15.5,
+    "categoria": "Hamburguesa",
+    "restaurante": "La Abuela Hamburguesa",
+    "urlImagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpKv5yjxaRBZSB7LQ1Rreac9eWQUu-zTH-Q&s",
+    "id": "603"
+  },
+  {
+    "nombre": "Hamburguesa Mexicana",
+    "descripcion": "Espectacular hamburguesa de carne de res a la parrilla con queso cheddar, guacamole fresco, pico de gallo, jalapeños picantes y cebolla morada.",
+    "precio": 16.5,
+    "categoria": "Hamburguesa",
+    "restaurante": "La Abuela Hamburguesa",
+    "urlImagen": "https://ranchera.com.co/wp-content/uploads/2022/12/HAMBURGUESA-MEXICANA-banner-1.png",
+    "id": "604"
+  }
+]
