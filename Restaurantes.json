@@ -1,7 +1,7 @@
 [
    {
       "categoria": "Quesos",
-      "productos": [
+      "restaurantes": [
          {
             "nombre": "Queso tipo suizo",
             "detalle": "Queso madurado de textura suave y sabor característico",
@@ -24,7 +24,7 @@
    },
    {
       "categoria": "Yogurt Frutado",
-      "productos": [
+      "restaurantes": [
          {
             "nombre": "Yogurt frutado de pushgay",
             "detalle": "Yogurt cremoso con sabor único a pushgay",
@@ -47,7 +47,7 @@
    },
    {
       "categoria": "Manjar Blanco",
-      "productos": [
+      "restaurantes": [
          {
             "nombre": "Manjar Blanco Clásico",
             "detalle": "Dulce tradicional, perfecto para acompañar",
@@ -58,7 +58,7 @@
    },
    {
       "categoria": "Roscas",
-      "productos": [
+      "restaurantes": [
          {
             "nombre": "Roscas Tradicionales",
             "detalle": "Crujientes y deliciosas, ideales para compartir",
@@ -69,7 +69,7 @@
    },
    {
       "categoria": "Mantequilla",
-      "productos": [
+      "restaurantes": [
          {
             "nombre": "Mantequilla de leche fresca",
             "detalle": "Mantequilla de alta calidad, fresca y cremosa",
