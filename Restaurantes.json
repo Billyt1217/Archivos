@@ -1,194 +1,81 @@
 [
-    {
-      "categoria":"Amburguesas",
-      "restaurantes":[
+   {
+      "categoria": "Quesos",
+      "productos": [
          {
-            "nombre":"El Cowboy Burger",
-            "direccion":"Amalia Puga 212, Cajamarca 06001, Perú",
-            "calificacion":3.6,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpSpMrNr6UcBT_4Y-lSr9b-MGyPLmgz8SJ6-J-P7XWQ&s"
+            "nombre": "Queso tipo suizo",
+            "detalle": "Queso madurado de textura suave y sabor característico",
+            "calificacion": 4.5,
+            "imagen": "https://i.pinimg.com/enabled_lo/564x/75/33/d3/7533d380bbc65467d4cc8dda42791ba2.jpg"
          },
          {
-            "nombre":"La Abuela Hamburguesa",
-            "direccion":"jr ayacucho, Cajamarca 06001,Perú",
-            "calificacion":3.5,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdalMR_evc0f9Lqc-Nihzz-Ln3Uk3IFNsHBqtNxIi5A&s"
+            "nombre": "Queso Mozzarella",
+            "detalle": "Queso fresco de consistencia elástica, perfecto para pizzas",
+            "calificacion": 4.7,
+            "imagen": "https://i.pinimg.com/enabled_lo/564x/75/33/d3/7533d380bbc65467d4cc8dda42791ba2.jpg"
+         },
+         {
+            "nombre": "Queso ecológico",
+            "detalle": "Elaborado con leche orgánica, sin aditivos ni conservantes",
+            "calificacion": 4.8,
+            "imagen": "https://i.pinimg.com/enabled_lo/564x/75/33/d3/7533d380bbc65467d4cc8dda42791ba2.jpg"
          }
       ]
    },
    {
-      "categoria":"Comida Tipica",
-      "restaurantes":[
+      "categoria": "Yogurt Frutado",
+      "productos": [
          {
-            "nombre":"Restaurante Las Tullpas",
-            "direccion":"Dos de Mayo 390, Cajamarca 06002, Perú",
-            "calificacion":4.1,
-            "imagen_url":"https://fastly.4sqi.net/img/general/600x600/88347325_ZNUcXaRw14kwKKrP-mhW5jKQfvV85cPzGr84hneeoJc.jpg"
+            "nombre": "Yogurt frutado de pushgay",
+            "detalle": "Yogurt cremoso con sabor único a pushgay",
+            "calificacion": 4.6,
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg7UeogFW_Ia2BklGBOUDKITKTmSL6_MoEWg&s"
          },
          {
-            "nombre":"Restaurante El Zarco",
-            "direccion":"Jirón, Jr. del Batán 170, Cajamarca 06002, Perú",
-            "calificacion":3.7,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1FZVOB1zPIZb4d5OeN0ljlgyBJzxqDAxkf_no9A9Jw&s"
+            "nombre": "Yogurt frutado de limón",
+            "detalle": "Yogurt refrescante con un toque cítrico de limón",
+            "calificacion": 4.2,
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg7UeogFW_Ia2BklGBOUDKITKTmSL6_MoEWg&s"
          },
          {
-            "nombre":"Restaurante Salas",
-            "direccion":"Cajamarca 06002, Perú",
-            "calificacion":3.9,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5MOSdpHkn5s7b_Fv3H7KFrHIXePr4hfSAuMgjICmRVQ&s"
-         },
-         {
-            "nombre":"El Querubino Restaurante - Café",
-            "direccion":"Amalia Puga 589, Cajamarca 06001, Perú",
-            "calificacion":4.3,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFmYXM59hThbaXlBe8sevubfrKGCrWuBEDo5EReDZtA&s"
+            "nombre": "Yogurt frutado de fresa con chia",
+            "detalle": "Fresa con un toque saludable de chía",
+            "calificacion": 4.9,
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg7UeogFW_Ia2BklGBOUDKITKTmSL6_MoEWg&s"
          }
       ]
    },
    {
-      "categoria":"Pescados y mariscos",
-      "restaurantes":[
+      "categoria": "Manjar Blanco",
+      "productos": [
          {
-            "nombre":"Marisquería Puerto Escondido",
-            "direccion":"Chanchamayo 456, Cajamarca 06001, Perú",
-            "calificacion":3.8,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8XAsJCFzxcwtcaHZz_Hri9moLaOXl40aKA&s"
-         },
-         {
-            "nombre":"Poseidón Pescados y Mariscos",
-            "direccion":"Vía de Evitamiento Nte. 2162, Cajamarca 06002, Perú",
-            "calificacion":3.4,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGPY9H45xPKRHDb1iqQ8yHdOGeFbChrSsmqA&s"
-         },
-         {
-            "nombre":"Poseidón",
-            "direccion":"Av Vía de Evitamiento 2224, Cajamarca 06002, Perú",
-            "calificacion":4.0,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl2JjoIOWeZZMmm4SbOgeGz9LpFNvQM1DxdClA9IYvzQ&s"
-         },
-         {
-            "nombre":"Marisquería La Curva",
-            "direccion":"AV.Independencia, Cajamarca 06003, Perú",
-            "calificacion":3.9,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgd6k-QBM0tOja6eDiTpeQIO4JT5vcvMFxG5VsN0V9cw&s"
-         },
-         {
-            "nombre":"Alga Marina Cebichería",
-            "direccion":"AV.Mártires de Uchuraccay 205, Cajamarca 06003, Perú",
-            "calificacion":3.9,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdLyet9pEmsjVwz73Dg8Fab3vhAaaUq4avRUA6c8w9w&s"
+            "nombre": "Manjar Blanco Clásico",
+            "detalle": "Dulce tradicional, perfecto para acompañar",
+            "calificacion": 4.8,
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOl0a96KZQTT1j1gNxhwyRVEy9T9JL9c5Dqw&s"
          }
       ]
    },
    {
-      "categoria":"Sopas",
-      "restaurantes":[
+      "categoria": "Roscas",
+      "productos": [
          {
-            "nombre":"Restaurante Caldos \"El Paisita\"",
-            "direccion":"Ucayali 329, Cajamarca 06001, Perú",
-            "calificacion":"4.6",
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApERRqZ0i_PenYqYW2D2rpsGakgo7WceWPT9_wPalFg&s"
-         },
-         {
-            "nombre":"CALDOS - LA ALAMEDA",
-            "direccion":"Eduardo Rodríguez 393, Cajamarca 06001, Perú",
-            "calificacion":4.2,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjmMAue_qdTWi4k7kdACvnJdqlteg627XpXBbWvun5uQ&s"
-         },
-         {
-            "nombre":"Soperos",
-            "direccion":"Belén 732, Cajamarca 06001, Perú",
-            "calificacion":2.7,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-JHFmDAhUmFTh0ljmeJk4tgWiv4fHxL0_v6QOzsAHQ&s"
+            "nombre": "Roscas Tradicionales",
+            "detalle": "Crujientes y deliciosas, ideales para compartir",
+            "calificacion": 4.7,
+            "imagen": "https://uploads.tiendada.com/public/file-storage/im/product/msyoceleqdgtarjqhp9i.jpg"
          }
       ]
    },
    {
-      "categoria":"Comida China",
-      "restaurantes":[
+      "categoria": "Mantequilla",
+      "productos": [
          {
-            "nombre":"Chifa Central",
-            "direccion":"Jr. del Batán 149, Cajamarca 06001, Perú",
-            "calificacion":3.9,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFj_7mEMpaqXCxOS5dKLSatB4ebXKoWmELpBRGgWyPwg&s"
-         },
-         {
-            "nombre":"Restaurant Hot",
-            "direccion":"Belén 732, Cajamarca 06002, Perú",
-            "calificacion":4.1,
-            "imagen_url":"https://lh3.googleusercontent.com/p/AF1QipOC0cHFRuFlfu03vk37uUaEmJdSvm31jLcxJ0wC=s1360-w1360-h1020"
-         },
-         {
-            "nombre":"WOK EXPRESS",
-            "direccion":"2do piso, Cc. El Quinde, Av. Hoyos Rubio 06001, Cajamarca 06001, Perú",
-            "calificacion":4.6,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjBL-eDXIs51CzqqdmbK-NwTMCYdlXaC9Vmg&s"
-         },
-         {
-            "nombre":"Chifa Xin Hua",
-            "direccion":"531, Amalia Puga, Cajamarca 06001, Perú",
-            "calificacion":3.8,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJZt2OwdDre8gFZH15iqsIEYLSk4OM1MWlQ&s"
+            "nombre": "Mantequilla de leche fresca",
+            "detalle": "Mantequilla de alta calidad, fresca y cremosa",
+            "calificacion": 4.9,
+            "imagen": "https://i0.wp.com/commememucho.com/wp-content/uploads/2022/01/mantequilla.jpg"
          }
       ]
-   },
-   {
-      "categoria":"Pizzas y comida Italiana",
-      "restaurantes":[
-         {
-            "nombre":"Pizza Hut",
-            "direccion":"Jr. Sor Manuela Gil 151 Pueblo Nuevo, Cajamarca 06001, Perú",
-            "calificacion":3.8,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7C1iPvABumdtzvVoQbHVakCDq-JtPDofwf4wDYfLyww&s"
-         },
-         {
-            "nombre":"Buena Pizza",
-            "direccion":"51, Cajamarca 06001, Perú",
-            "calificacion":4.02,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEbdfSa9U2xq6i01lRJtw79mXNEtkh9XW92idxo6x7-w&s"
-         },
-         {
-            "nombre":"Renzo's Pizzas",
-            "direccion":"Jr. Cruz de Piedra 579, Cajamarca, 06001",
-            "calificacion":4.11,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmypSasmYY86yLyXw4mGI1mM-VSckiOmp_Wtb2ry8WIA&s"
-         },
-         {
-            "nombre":"El Marengo Pizzeria",
-            "direccion":"Jr. Junín # 1201, Cajamarca",
-            "calificacion":4.02,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuut9vbCoa2w5gMqhQ3qq2Wv_gE0s7TqB2hHinPpHmvg&s"
-         },
-         {
-            "nombre":"Bambino PIZZA",
-            "direccion":"Jirón Silva Santisteban 141 Plazuela Belén, Cajamarca, 06002",
-            "calificacion":4.03,
-            "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStmZaVs6BcXhnibLoEA-XgKvOzDmAO-oYSdmvvGmtMuw&s"
-         }
-      ]
-   },
-  
-   {
-      "categoria":"criollada",
-      "restaurantes":[
-   {
-      "nombre":"KEBAB Cajamarca",
-      "direccion":"Ucayali 370, Cajamarca, Región Cajamarca, 06001",
-      "calificacion":4.71,
-      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtPqfI2zvz3LzjrlS9d8VgLyHtfNOxM8mNCDgE_QpZNQ&s"
-   },
-   {
-      "nombre":"El Warique de Chelo",
-      "direccion":"Jr. Colonial 198 - Barrio San Martin, Cajamarca, Región Cajamarca, 06003",
-      "calificacion":4.52,
-      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiScG2pilFyfBechNlGm4mJrsGGOmGR2olMIbo-wC69Q&s"
-   },
-   {
-      "nombre":"El Barrio Resto Bar Criollo",
-      "direccion":"Jr. Ayacucho 753, Cajamarca 06002, Perú",
-      "calificacion":4.5,
-      "imagen_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2BT8BgAeUuQAW0S8g0Vm-zmHGtqEawH4qrVewIQixHg&s"
-   }
-]
    }
 ]
